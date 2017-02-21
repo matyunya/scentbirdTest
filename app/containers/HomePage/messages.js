@@ -8,7 +8,11 @@ import { defineMessages } from 'react-intl';
 export default defineMessages({
   startProjectHeader: {
     id: 'boilerplate.containers.HomePage.start_project.header',
-    defaultMessage: 'Start your next react project in seconds',
+    defaultMessage: 'MONTH-TO-MONTH SUBSCRIPTION',
+  },
+  billingInfo: {
+    id: 'boilerplate.containers.HomePage.start_project.billing',
+    defaultMessage: 'Billed monthly. Renews automatically, cancel any time. Free shipping.',
   },
   startProjectMessage: {
     id: 'boilerplate.containers.HomePage.start_project.message',

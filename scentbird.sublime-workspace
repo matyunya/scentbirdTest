@@ -1,0 +1,2228 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"defa",
+				"defaultMessage"
+			],
+			[
+				"tags",
+				"tags_details"
+			],
+			[
+				"gs",
+				"gstype"
+			],
+			[
+				"auth",
+				"authorized\t(feeds.class.php)"
+			],
+			[
+				"ag",
+				"agenton3.ru"
+			],
+			[
+				"packag",
+				"package_info"
+			],
+			[
+				"exten",
+				"extension_loaded"
+			],
+			[
+				"fir",
+				"fireAndKeepObjects"
+			],
+			[
+				"setDesk",
+				"setDesktopId\t(User.php)"
+			],
+			[
+				"curren",
+				"currentUserHas\t(ModulesPage.js)"
+			],
+			[
+				"hide",
+				"hide_for_export"
+			],
+			[
+				"setDateF",
+				"setDateFinishFromPeriod\t(Invoice.php)"
+			],
+			[
+				"gst",
+				"gstype_id"
+			],
+			[
+				"componen",
+				"componentWillMount\t(ModulesPage.js)"
+			],
+			[
+				"total",
+				"total_amount"
+			],
+			[
+				"gsty",
+				"gstype_id\t(cart.class.php)"
+			],
+			[
+				"seri",
+				"serialize\t(modules.class.php)"
+			],
+			[
+				"Auth",
+				"AuthStore"
+			],
+			[
+				"Per",
+				"PermissionChecker"
+			],
+			[
+				"News",
+				"NewsPopUp"
+			],
+			[
+				"heade",
+				"header_text"
+			],
+			[
+				"hea",
+				"header_text"
+			],
+			[
+				"newsP",
+				"newsPopUpOpen"
+			],
+			[
+				"New",
+				"NewsPopUp"
+			],
+			[
+				"newsPop",
+				"newsPopUp"
+			],
+			[
+				"GET_",
+				"GET_NEWS_POPUP_SUCCESS\t(NewsPopUp.js)"
+			],
+			[
+				"GET",
+				"GET_NEWS_POPUP_SUCCESS\t(ActionTypes.js)"
+			],
+			[
+				"request",
+				"request_id"
+			],
+			[
+				"REQUS",
+				"REQUEST_CONTACT"
+			],
+			[
+				"fet",
+				"fetchAll"
+			],
+			[
+				"onCHa",
+				"onChangeName"
+			],
+			[
+				"TopF",
+				"topFiveArr"
+			],
+			[
+				"Pr",
+				"PropTypes\t(RatingPage.js)"
+			],
+			[
+				"ab",
+				"absoluteTotal\t(RatingsController.php)"
+			],
+			[
+				"global",
+				"global_discount\t(media.php)"
+			],
+			[
+				"preg_",
+				"preg_replace('/[^0-9"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"HO",
+				"HOUSE_SALE"
+			],
+			[
+				"HOUS",
+				"HOUSE_RENT"
+			],
+			[
+				"ROOM",
+				"ROOM_SALE"
+			],
+			[
+				"APE",
+				"APARTMENT_SALE"
+			],
+			[
+				"Ho",
+				"HOUSE_RENT"
+			],
+			[
+				"closeP",
+				"closePopUp"
+			],
+			[
+				"close",
+				"closePopUp"
+			],
+			[
+				"space",
+				"space_total"
+			],
+			[
+				"lead",
+				"leadsJoin"
+			],
+			[
+				"cate",
+				"category\t(index.html.twig)"
+			],
+			[
+				"dist",
+				"district"
+			],
+			[
+				"street",
+				"searchStreetIds"
+			],
+			[
+				"havin",
+				"havingsDeals"
+			],
+			[
+				"dema",
+				"demandsJoin"
+			],
+			[
+				"read",
+				"readyCondition"
+			],
+			[
+				"reu",
+				"requests"
+			],
+			[
+				"last_ac",
+				"last_action_type\t(RequestModel.php)"
+			],
+			[
+				"action",
+				"action_type"
+			],
+			[
+				"desc",
+				"description\t(ActionsModel.php)"
+			],
+			[
+				"tem",
+				"template_name"
+			],
+			[
+				"requ",
+				"requests"
+			],
+			[
+				"acti",
+				"actionName"
+			],
+			[
+				"defaul",
+				"defaultLimit"
+			],
+			[
+				"array_",
+				"array_shift"
+			],
+			[
+				"strto",
+				"strtoupper\t(index.php)"
+			],
+			[
+				"Abstra",
+				"AbstractController\t(AbstractController.php)"
+			],
+			[
+				"RequestDem",
+				"RequestDemandsModel"
+			],
+			[
+				"company",
+				"company_id\t(DealsModel.php)"
+			],
+			[
+				"compla",
+				"complainExists"
+			],
+			[
+				"categ",
+				"category_id"
+			],
+			[
+				"conta",
+				"contact_id"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"getYand",
+				"getYandexPrecision\t(GeoObject.php)"
+			],
+			[
+				"yand",
+				"yandexGeo"
+			],
+			[
+				"point",
+				"pointOrStreet\t(Geocoder.php)"
+			],
+			[
+				"expl",
+				"explode\t(lists.php)"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"key",
+				"array_keys"
+			],
+			[
+				"job",
+				"job_type"
+			],
+			[
+				"Prin",
+				"Println\t ƒ"
+			],
+			[
+				"main",
+				"main_channel"
+			],
+			[
+				"parseOkW",
+				"parseOkWithPets"
+			],
+			[
+				"N",
+				"NEEDS_MAINTAINANCE_VALUE\t(DescriptionParser.php)"
+			],
+			[
+				"setFu",
+				"setFurbish\t(DescriptionParser.php)"
+			],
+			[
+				"setOk",
+				"setOkWithChildren\t(DescriptionParser.php)"
+			],
+			[
+				"t",
+				"throw\tThrow Exception"
+			],
+			[
+				"js",
+				"json_decode($notify['payload\t(Notify.php)"
+			],
+			[
+				"pgsq",
+				"pgsql_production"
+			],
+			[
+				"ored",
+				"order_by"
+			],
+			[
+				"orde",
+				"order_by"
+			],
+			[
+				"top",
+				"top_results"
+			],
+			[
+				"yar",
+				"year_from"
+			],
+			[
+				"parent_geo",
+				"parent_geo_id"
+			],
+			[
+				"proper",
+				"property_id"
+			],
+			[
+				"PH",
+				"PHP_EOL\t(CollectorTester.php)"
+			],
+			[
+				"cia",
+				"cian_id"
+			],
+			[
+				"Log",
+				"LogstashFormatter\t(LogstashFormatter.php)"
+			],
+			[
+				"adsrc_",
+				"adsrc_object_id"
+			],
+			[
+				"STATUS",
+				"STATUS_PROCESSED\t(APublishQueue.php)"
+			],
+			[
+				"prope",
+				"property_id"
+			],
+			[
+				"J",
+				"JSON_App\t(JSON_App.php)"
+			],
+			[
+				"dea",
+				"deal_id"
+			],
+			[
+				"_ge",
+				"_getDuplicatesData"
+			],
+			[
+				"ad",
+				"adsrc_id\t(PgsqlStorage.php)"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"ho",
+				"house_floors"
+			],
+			[
+				"login",
+				"login_data"
+			],
+			[
+				"apoi",
+				"api_advert_info"
+			],
+			[
+				"PROXY",
+				"PROXYTYPE_LUMINATI_PROXY\t(Grabber.php)"
+			],
+			[
+				"xpat",
+				"xpathString"
+			],
+			[
+				"sear",
+				"searchPremise"
+			],
+			[
+				"par",
+				"parent_kind"
+			],
+			[
+				"Logg",
+				"LoggerAdverts\t(LoggerAdverts.php)"
+			],
+			[
+				"check",
+				"checkUrl"
+			],
+			[
+				"sta",
+				"statement"
+			],
+			[
+				"Ор",
+				"Орехово-Борисово"
+			],
+			[
+				"allow",
+				"ALLOWED_KINDS"
+			],
+			[
+				"imp",
+				"implodeNodeValues\t(Helper.php)"
+			],
+			[
+				"proxy",
+				"proxy_type\t(AUPNCollector.php)"
+			],
+			[
+				"cooki",
+				"cookie_file"
+			],
+			[
+				"Li",
+				"LinkFetcher\t(yandex.php)"
+			],
+			[
+				"deal",
+				"deal_type"
+			],
+			[
+				"preg_ma",
+				"preg_match_all"
+			],
+			[
+				"from",
+				"fromParamsTable"
+			],
+			[
+				"produ",
+				"production_from_develop\t(test_jobs.php)"
+			],
+			[
+				"_PAGE",
+				"_PAGES"
+			],
+			[
+				"parseP",
+				"parsePhotos"
+			],
+			[
+				"Con",
+				"Connection"
+			],
+			[
+				"mb_con",
+				"mb_convert_encoding"
+			],
+			[
+				"value",
+				"valueIfHasNode"
+			],
+			[
+				"error",
+				"error_message"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "pasca",
+		"selected_items":
+		[
+			[
+				"pasca",
+				"Convert Case: PascalCase"
+			],
+			[
+				"snake",
+				"Convert Case: snake_case"
+			],
+			[
+				"pasc",
+				"Convert Case: PascalCase"
+			],
+			[
+				"camel",
+				"Convert Case: camelCase"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"git check",
+				"Git: Checkout Current File"
+			],
+			[
+				"git chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"sf br",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftp br",
+				"SFTP: Browse Server…"
+			],
+			[
+				"git ",
+				"Git: Push Tags"
+			],
+			[
+				"sftp b",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sft",
+				"SFTP: Browse Server…"
+			],
+			[
+				"stp br",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftpb ",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftp brow",
+				"SFTP: Browse Server…"
+			],
+			[
+				"eslit",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"eslint",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"sftp bro",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sft br",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sf",
+				"SublimeLinter: Report (Open Files)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git che",
+				"Git: Checkout Current File"
+			],
+			[
+				"sftp brw",
+				"SFTP: Browse Server…"
+			],
+			[
+				"cross",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"git ceh",
+				"Git: Checkout Current File"
+			],
+			[
+				"babl",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"bab",
+				"Preferences: Babel – Default"
+			],
+			[
+				"br",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftp bre",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftpbr",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftp",
+				"Preferences: SFTP Settings"
+			],
+			[
+				"brows ",
+				"SFTP: Browse Server…"
+			],
+			[
+				"babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"",
+				"Convert Case: Lower Case"
+			],
+			[
+				"git checko",
+				"Git: Checkout Current File"
+			],
+			[
+				"git cec",
+				"Git: Checkout Current File"
+			],
+			[
+				"sftp be",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sfpt",
+				"SFTP: Browse Server…"
+			],
+			[
+				"jab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"git log ",
+				"Git: Log Current File"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"ba",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"git stau",
+				"Git: Status"
+			],
+			[
+				"js",
+				"PackageDev: New JSON Syntax Definition"
+			],
+			[
+				"git log cu",
+				"Git: Log Current File"
+			],
+			[
+				"git lgo",
+				"Git: Log Current File"
+			],
+			[
+				"git log cur",
+				"Git: Log Current File"
+			],
+			[
+				"search in",
+				"Search In Project"
+			],
+			[
+				"search",
+				"Search In Project"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"searc",
+				"Search In Project"
+			],
+			[
+				"install packa",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"identity",
+				"DashDoc: invoke Dash with selected word (flip syntax sensitivity)"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"remove  ",
+				"Package Control: Remove Package"
+			],
+			[
+				"user ",
+				"Preferences: Settings - User"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"stp",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"sftop",
+				"Set Syntax: SFTP Output Panel"
+			],
+			[
+				"git lg",
+				"Git: Log Current File"
+			],
+			[
+				"gitg",
+				"GitGutter: Show Comparing Against"
+			],
+			[
+				"git checkou",
+				"Git: Checkout Current File"
+			],
+			[
+				"sfp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftrp",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"git checkout ",
+				"Git: Checkout Current File"
+			],
+			[
+				"sftpb",
+				"SFTP: Browse Server…"
+			],
+			[
+				"git checkout",
+				"Git: Checkout Current File"
+			],
+			[
+				"git ce",
+				"Git: Checkout Current File"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"sftpbo",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftp ed",
+				"SFTP: Edit Server…"
+			],
+			[
+				"ftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"broser",
+				"SFTP: Browse Server…"
+			],
+			[
+				"s",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftp ",
+				"SFTP: Browse Server…"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"git show",
+				"GitGutter: Show Comparing Against"
+			],
+			[
+				"job",
+				"Set Syntax: Json Generic Object Elements"
+			],
+			[
+				"sql",
+				"SQLExec: Execute"
+			],
+			[
+				"package isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"PackageDev",
+				"PackageDev: New Commands File"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"git rest",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"git checkot",
+				"Git: Checkout Current File"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"git dif",
+				"Git: Diff Current File"
+			],
+			[
+				"ref",
+				"Project: Refresh Folders"
+			],
+			[
+				"git l",
+				"Git: Log Current File"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"git lof ",
+				"Git: Log Current File"
+			],
+			[
+				"refresf",
+				"Project: Refresh Folders"
+			],
+			[
+				"indentation",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"git show ",
+				"Git: Show Current File"
+			],
+			[
+				"refresh",
+				"Project: Refresh Folders"
+			],
+			[
+				"packavi",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Turn Execute On Save Off"
+			],
+			[
+				"form",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"forma",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Form",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"Format ",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 54.0,
+		"history":
+		[
+			"\\x",
+			"import User.Psycopg",
+			"import psycopg",
+			"subprocess.check_output(\"/usr/local/bin/psql\", shell=True)",
+			"subprocess.check_output(\"cd /Users/mac\", shell=True)",
+			"subprocess.check_output(\"cd /Users/mac\")",
+			"subprocess.call(\"cd /Users/mac\")",
+			"subprocess.call(\"cd /Users/mac;\")",
+			"subprocess.call(\"cd /Users/mac; ls -la\")",
+			"subprocess.call([\"ls\", \"-la\"])",
+			"subprocess.call(\"ls -la\")",
+			"subprocess.call(\"ls\")",
+			"call(\"ls\")",
+			"import subprocess",
+			"subprocess.call",
+			"subprocesses.call",
+			"view.run_command(\"sql\")",
+			"view.run_command(\"example\")",
+			"view.run_command(\"sql\")",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mac/Sites/scentbird",
+		"/Users/mac/Sites/scentbird/app",
+		"/Users/mac/Sites/scentbird/app/components",
+		"/Users/mac/Sites/scentbird/app/components/H3",
+		"/Users/mac/Sites/scentbird/app/components/Img",
+		"/Users/mac/Sites/scentbird/app/components/IssueIcon",
+		"/Users/mac/Sites/scentbird/app/containers",
+		"/Users/mac/Sites/scentbird/app/containers/HomePage"
+	],
+	"file_history":
+	[
+		"/Users/mac/Sites/scentbird/app/containers/HomePage/Input.js",
+		"/Users/mac/Sites/scentbird/app/containers/HomePage/index.js",
+		"/Users/mac/Sites/scentbird/app/index.html",
+		"/Users/mac/Sites/scentbird/app/app.js",
+		"/Users/mac/Sites/scentbird/app/containers/HomePage/Label.js",
+		"/Users/mac/Sites/scentbird/app/containers/HomePage/Form.js",
+		"/Users/mac/Sites/scentbird/app/containers/App/index.js",
+		"/Users/mac/Sites/scentbird/app/components/Header/index.js",
+		"/Users/mac/Sites/scentbird/app/components/H3/index.js",
+		"/Users/mac/Sites/scentbird/app/reducers.js",
+		"/Users/mac/Sites/scentbird/internals/webpack/webpack.dev.babel.js",
+		"/Users/mac/Sites/scentbird/app/components/media/index.js",
+		"/Users/mac/Sites/scentbird/app/translations/en.json",
+		"/Users/mac/Sites/scentbird/app/components/H2/index.js",
+		"/Users/mac/Sites/scentbird/app/containers/HomePage/messages.js",
+		"/Users/mac/Sites/scentbird/app/components/Header/Img.js",
+		"/Users/mac/Sites/scentbird/app/components/H4/index.js",
+		"/Users/mac/Sites/scentbird/app/global-styles.js",
+		"/Users/mac/Sites/scentbird/app/routes.js",
+		"/Users/mac/Sites/scentbird/app/components/Toggle/index.js",
+		"/Users/mac/Sites/scentbird/app/components/ProgressBar/Wrapper.js",
+		"/Users/mac/go/src/github.com/matyunya/redirect/redirects_fixtures.json",
+		"/Users/mac/go/src/github.com/matyunya/redirect/redirect_simple.go",
+		"/Users/mac/go/src/github.com/matyunya/redirect/redirect_perfect.go",
+		"/Users/mac/go/src/github.com/matyunya/redirect/urls.txt",
+		"/Users/mac/go/src/github.com/matyunya/redirect/redirect_fasthttp_test.go",
+		"/Users/mac/go/src/github.com/matyunya/redirect/redirect_fasthttp.go",
+		"/Users/mac/go/src/github.com/matyunya/redirect/README.md",
+		"/Users/mac/go/src/github.com/matyunya/redirect/insert.go",
+		"/Users/mac/go/src/github.com/matyunya/redirect/redirect_final.go",
+		"/Users/mac/go/src/github.com/matyunya/redirect/redirect_naive.go",
+		"/Users/mac/go/src/github.com/matyunya/redirect/redirect.go",
+		"/Library/LaunchDaemons/limit.maxfiles.plist",
+		"/Users/mac/go/src/github.com/matyunya/redirect/redirect_naive_test.go",
+		"/Users/mac/Desktop/agenton/libs/libs.php",
+		"/Users/mac/Desktop/agenton/libs/Model/Entities/Gstype.php",
+		"/Users/mac/Desktop/agenton/tools/inc/libs/Model/Entities/Gstype.php",
+		"/Users/mac/Desktop/agenton/api/inc/libs/Model/Entities/Gstype.php",
+		"/Users/mac/Desktop/agenton/tools/inc/libs/Controller/ModulesController.php",
+		"/Users/mac/Desktop/agenton/libs/Model/Entities/File.php",
+		"/Users/mac/Desktop/agenton/libs/Model/Entities/Search.php",
+		"/Users/mac/Desktop/agenton/libs/Model/Proxies/__CG__LibsModelEntitiesSearch.php",
+		"/Users/mac/Desktop/agenton/libs/Model/Repositories/DealRepository.php",
+		"/Users/mac/Desktop/agenton/libs/Model/Yaml/Libs.Model.Entities.Search.dcm.yml",
+		"/Users/mac/Desktop/agenton/tools/inc/libs/libs.php",
+		"/Users/mac/Desktop/agenton/tools/twig/modules/index.html.twig",
+		"/Users/mac/Desktop/agenton/api/inc/api/cart.class.php",
+		"/Users/mac/Desktop/agenton/tools/twig/modules/edit.html.twig",
+		"/Users/mac/Desktop/agenton/tools/inc/libs/vendor/integrationmonitoring/moneta-php-sdk/view/AccountHistoryForm.php",
+		"/Users/mac/Desktop/agenton/tools/twig/requests/index.html.twig",
+		"/Users/mac/Desktop/agenton/tools/inc/libs/Controller/AbstractController.php",
+		"/Users/mac/Desktop/agenton/api/inc/libs/Model/Yaml/Libs.Model.Entities.Gstype.dcm.yml",
+		"/Users/mac/Desktop/agenton/tools/inc/libs/Model/Yaml/Libs.Model.Entities.Gstype.dcm.yml",
+		"/Users/mac/Desktop/agenton/tools/inc/libs/Model/Yaml/Libs.Model.Entities.Desktop.dcm.yml",
+		"/Users/mac/Desktop/agenton/libs/Controller/AbstractController.php",
+		"/Users/mac/Desktop/agenton/a3/pages/search.php",
+		"/Users/mac/Desktop/agenton/libs/Model/Entities/Role.php",
+		"/Users/mac/Desktop/agenton/libs/Controller/ModulesController.php",
+		"/Users/mac/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/Users/mac/Desktop/agenton/libs/Model/Entities/Desktop.php",
+		"/Users/mac/Desktop/agenton/libs/Model/Yaml/Libs.Model.Entities.Desktop.dcm.yml",
+		"/Users/mac/Desktop/agenton/libs/Common/Auth.php",
+		"/Users/mac/Desktop/agenton/tools/pages/parsing.php",
+		"/Users/mac/Desktop/agenton/tools/inc/libs/Common/DealHelper.php",
+		"/Users/mac/Desktop/agenton/a3/js/src/components/object-form/adverts/AdvertAccountLine.js",
+		"/Users/mac/Desktop/agenton/libs/Exporter/Generators/CianGenerator.php",
+		"/Users/mac/Desktop/agenton/libs/Exporter/Generators/YandexGenerator.php",
+		"/Users/mac/Desktop/agenton/libs/Parser/Storage/PgsqlParserStorage.php",
+		"/Users/mac/Desktop/agenton/libs/Adapter/YandexAdapter.php",
+		"/Users/mac/Desktop/agenton/libs/Model/Model.php",
+		"/Users/mac/Desktop/agenton/a3/index.php",
+		"/Users/mac/Desktop/agenton/cron/bin/import/newBuildingsXml.php",
+		"/Users/mac/Desktop/agenton/api/inc/api/sandbox.class.php",
+		"/Users/mac/Desktop/agenton/a3/pages/objects.php",
+		"/Users/mac/Desktop/agenton/a3/controllers/newbuilding.php",
+		"/Users/mac/Desktop/agenton/a3/pages/account.php",
+		"/Users/mac/Desktop/agenton/a3/pages/ajax.php",
+		"/Users/mac/Desktop/agenton/a3/controllers/videos.php",
+		"/Users/mac/Desktop/agenton/a3/controllers/products.php",
+		"/Users/mac/Desktop/agenton/a3/controllers/company.php",
+		"/Users/mac/Desktop/agenton/a3/controllers/books.php",
+		"/Users/mac/Desktop/agenton/a3/controllers/audios.php",
+		"/Users/mac/Desktop/agenton/libs/Common/Loader.php",
+		"/Users/mac/Desktop/agenton/a3/libs/Common/DealHelper.php",
+		"/Users/mac/Desktop/agenton/a3/pages/profile.php",
+		"/Users/mac/Desktop/agenton/a3/libs/functions/lists.php",
+		"/Users/mac/Desktop/agenton/a3/libs/Model/AdvertsModel.php",
+		"/Users/mac/Desktop/agenton/a3/libs/Model/InvoicesModel.php",
+		"/Users/mac/Desktop/agenton/a3/libs/Model/ProductsModel.php",
+		"/Users/mac/Desktop/agenton/a3/libs/Model/RequestModel.php",
+		"/Users/mac/Desktop/agenton/a3/libs/Common/UploadHandler.php",
+		"/Users/mac/Desktop/agenton/a3/libs/Common/ToolsHelper.php",
+		"/Users/mac/Desktop/agenton/a3/libs/Common/Helper.php",
+		"/Users/mac/Desktop/agenton/a3/libs/Common/ClientsHelper.php",
+		"/Users/mac/Desktop/agenton/libs/Model/NewbuildingXmlPropertiesModel.php",
+		"/Users/mac/Desktop/agenton/libs/Model/AdsrcModel.php",
+		"/Users/mac/Desktop/agenton/tools/inc/libs/Parser/Storage/NbXmlParserStorage.php",
+		"/Users/mac/Desktop/agenton/libs/LinkFetcher/AdvertLogWriter.php",
+		"/Users/mac/Desktop/agenton/a3/js/src/components/profile/ProfileEditPage.js",
+		"/Users/mac/Desktop/agenton/cron/bin/mailru.php",
+		"/Users/mac/Desktop/agenton/tools/pages/users.php",
+		"/Users/mac/Desktop/agenton/api/inc/libs/libs.php",
+		"/Users/mac/Desktop/agenton/libs/Model/Yaml/Libs.Model.Entities.Module.dcm.yml",
+		"/Users/mac/Desktop/agenton/api/inc/api/header.class.php",
+		"/Users/mac/Desktop/agenton/tools/xsl/users.xsl",
+		"/Users/mac/Desktop/agenton/a3/js/src/components/common/TopHeader.js",
+		"/Users/mac/.profile",
+		"/Users/mac/Desktop/agenton/a3/libs/Model/Entities/Invoice.php",
+		"/Users/mac/Desktop/agenton/libs/Model/Entities/Invoice.php",
+		"/Users/mac/Desktop/agenton/api/inc/libs/Model/Entities/Module.php",
+		"/Users/mac/Desktop/agenton/a3/libs/Controller/ModulesController.php",
+		"/Users/mac/Desktop/agenton/api/inc/libs/Model/Entities/Cart.php",
+		"/Users/mac/Desktop/agenton/a3/libs/Common/Auth.php",
+		"/Users/mac/Desktop/agenton/libs/Model/Entities/User.php",
+		"/Users/mac/Desktop/agenton/tools/twig/modules/get.html.twig",
+		"/Users/mac/Desktop/agenton/api/inc/libs/Model/Yaml/Libs.Model.Entities.User.dcm.yml",
+		"/Users/mac/Desktop/agenton/tools/inc/libs/Model/Entities/User.php",
+		"/Users/mac/Desktop/agenton/tools/inc/libs/Model/Entities/Module.php",
+		"/Users/mac/Desktop/agenton/api/inc/api/shop.class.php",
+		"/Users/mac/Desktop/agenton/libs/Model/Entities/Module.php",
+		"/Users/mac/Desktop/agenton/libs/Model/Yaml/Libs.Model.Entities.Invoice.dcm.yml",
+		"/Users/mac/Desktop/agenton/api/inc/libs/Model/Yaml/Libs.Model.Entities.Cart.dcm.yml",
+		"/Users/mac/Desktop/agenton/tools/inc/libs/Model/Yaml/Libs.Model.Entities.Module.dcm.yml",
+		"/Users/mac/Desktop/agenton/tools/inc/libs/Model/Yaml/Libs.Model.Entities.Invoice.dcm.yml",
+		"/Users/mac/Desktop/agenton/api/inc/libs/Model/Repositories/CartRepository.php",
+		"/Users/mac/Desktop/agenton/api/inc/api/part.class.php",
+		"/Users/mac/Desktop/agenton/tools/twig/modules/buy.html.twig",
+		"/Users/mac/Desktop/agenton/tools/inc/libs/Model/GSTypeModel.php"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 167.0,
+		"where_history":
+		[
+			"/Users/mac/Sites/scentbird/app",
+			"/Users/mac/Desktop/agenton/tools/inc/libs",
+			"/Users/mac/Desktop/agenton/tools/twig",
+			"/Users/mac/Desktop/agenton/tools",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/libs",
+			"/Users/mac/Desktop/agenton/a3/, -/libs/",
+			"/Users/mac/Desktop/agenton/a3/, -/libs",
+			"/Users/mac/Desktop/agenton/a3/, -libs",
+			"/Users/mac/Desktop/agenton/a3/libs",
+			"/Users/mac/Desktop/agenton/a3/libs/Model",
+			"/Users/mac/Desktop/agenton/a3/libs",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/tools",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/tools",
+			"/Users/mac/Desktop/agenton/api",
+			"/Users/mac/Desktop/agenton/tools",
+			"/Users/mac/Desktop/agenton/f",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/f",
+			"/Users/mac/Desktop/agenton/a3/js",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/api",
+			"/Users/mac/Desktop/agenton/API",
+			"/Users/mac/Desktop/agenton/f",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/api",
+			"/Users/mac/Desktop/agenton/f",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/libs",
+			"/Users/mac/Desktop/agenton/f",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/a3/",
+			"/Users/mac/Desktop/agenton/a3/js",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/tools",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/tools",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/a3/js",
+			"/Users/mac/Desktop/agenton/libs",
+			"/Users/mac/Desktop/agenton/a3/js",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/a3/js",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/f",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/a",
+			"/Users/mac/Desktop/agenton/f/",
+			"/Users/mac/Desktop/agenton/a3/",
+			"/Users/mac/Desktop/agenton/a3/js",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/api",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/f",
+			"/Users/mac/Desktop/agenton/,-a3/libs,-inc/libs",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/libs",
+			"/Users/mac/Desktop/agenton",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/libs",
+			"/Users/mac/Desktop/agenton/tools",
+			"/Users/mac/Desktop/agenton/libs",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/tools",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/ф3",
+			"/Users/mac/Desktop/agenton/tools,-vendor/,-libs/",
+			"/Users/mac/Desktop/agenton/tools,-vendor/",
+			"",
+			"/Users/mac/Desktop/agenton/tools,-vendor/",
+			"/Users/mac/Desktop/agenton/tools",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/tests",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/tests",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/a3/tests",
+			"/Users/mac/Desktop/agenton/tests",
+			"/Users/mac/Desktop/agenton/f",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/f",
+			"/Users/mac/Desktop/agenton/history",
+			"/Users/mac/Desktop/agenton/tests",
+			"/Users/mac/Desktop/agenton/f",
+			"/Users/mac/Desktop/agenton/tests",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/f",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/libs/Cache",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/f",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/,-vendor/,-a3/libs,-api/inc/libs,-tools/inc/libs,-*.js",
+			"/Users/mac/Desktop/agenton/,-vendor/,-a3/libs,-api/inc/libs,-tools/inc/libs,-.js",
+			"/Users/mac/Desktop/agenton/,-vendor/,-a3/libs,-api/inc/libs,-tools/inc/libs",
+			"/Users/mac/Desktop/agenton/,-vendor/,-a3/libs,-api/inc/libs",
+			"/Users/mac/Desktop/agenton/,-vendor/",
+			"/Users/mac/Desktop/agenton/a3,-vendor/",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/api",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/api",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/api",
+			"/Users/mac/Desktop/agenton",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/f",
+			"/Users/mac/Desktop/agenton/libs",
+			"/Users/mac/Desktop/agenton/a3",
+			"/Users/mac/Desktop/agenton/tools",
+			"/Users/mac/Desktop/agenton/",
+			"/Users/mac/Desktop/agenton/libs/",
+			"/Users/mac/Desktop/agenton/libs/Exporter",
+			"/Users/mac/Desktop/agenton/a3"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"lg=",
+			"Grid ",
+			"lg",
+			"lg={7 / 10} sm={1}",
+			"Grid",
+			"1 / 3",
+			"1 / 2",
+			"item",
+			"favicon.ico",
+			"ReposList",
+			"reposList",
+			"ReposList",
+			".Unit",
+			"width=",
+			"Grid",
+			"c0392b",
+			"768",
+			"languageProviderReducer",
+			"LanguageProvider",
+			"3",
+			"2",
+			"H2",
+			"password",
+			"htmlFor",
+			"for",
+			"Input",
+			"changeUsername",
+			"onChangeUsername",
+			"FormattedMessage",
+			"trymeHeader",
+			"Try me!",
+			"loadRepos",
+			"loading",
+			"reposListProps",
+			"reposList",
+			"ReposList",
+			"google",
+			"<Form",
+			"<Form>",
+			"<Form?",
+			"<Form",
+			"logo",
+			"Try me!",
+			"free shipping",
+			"Proxima nova",
+			"body",
+			"Form",
+			"CenteredSection",
+			"startProjectHeader",
+			"boilerplate.containers.HomePage.start_project.header",
+			"start_project.header",
+			"Start your next react project in seconds",
+			"startProjectHeader",
+			"Start your next react project in seconds",
+			"LocaleToggle",
+			"Footer",
+			"footer",
+			"React",
+			"List",
+			"60069",
+			"params",
+			"condition",
+			"Mallocs",
+			"character varying",
+			", P",
+			"P2",
+			"5",
+			"?",
+			"3",
+			"url",
+			"URL",
+			"p2",
+			"xml",
+			"p",
+			"string",
+			"Error",
+			"xmlFile",
+			"setSpaceCommon",
+			"getHash",
+			"setHash",
+			"sethash",
+			"default_am",
+			"default",
+			"desktops",
+			"indexaction",
+			"this->request->get",
+			"workers",
+			"this->libs['doctrine']",
+			"name=\"",
+			"name=",
+			"<button",
+			"<form",
+			"is_ac",
+			"checked",
+			"position",
+			"selected",
+			"itle",
+			"type",
+			"for ",
+			"for",
+			"<select",
+			"input",
+			"active",
+			"workers",
+			"announce",
+			"description",
+			"amount",
+			"<label",
+			"popup",
+			"button",
+			"form",
+			"glyphicon glyphicon-trash",
+			"name",
+			"popup",
+			"class=\"page-header\">",
+			"11524822",
+			"if ((!$is_active && isset($attrs['is_passive']) && (string) $attrs['is_passive'] === '0')\n",
+			"T_GEO_VW",
+			"cityStats",
+			"get_permissions",
+			"sum",
+			"deal:export:yandex",
+			"set_export",
+			"deal:export:yandex",
+			"sequenceName",
+			"sequenceGenerator",
+			"allocationSize",
+			"nextval"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"get_current_user($this->libs)",
+			"'/tmp'",
+			"get('tmp')",
+			"array(",
+			".\\Libs\\Common\\Helper::str(",
+			".\\Libs\\Common\\Helper::int(",
+			"\\Libs\\Common\\Helper::location(",
+			"\\Libs\\Common\\ToolsHelper::page_error(",
+			"\\Libs\\Common\\Helper::getrandstring(",
+			"= \\Libs\\Common\\Helper::bool(",
+			" = \\Libs\\Common\\Helper::bool",
+			" = \\Libs\\Common\\Helper::bool(",
+			" = \\Libs\\Common\\Helper::float(",
+			" (\\Libs\\Common\\Helper::float(",
+			" (\\Libs\\Common\\Helper::str(",
+			" (\\Libs\\Common\\Helper::bool(",
+			" (\\Libs\\Common\\Helper::int(",
+			" \\Libs\\Common\\ToolsHelper::buildSphinxPagination(",
+			" \\Libs\\Common\\ToolsHelper::get_list_pages(",
+			" \\Libs\\Common\\Helper::str(",
+			" \\Libs\\Common\\Helper::int(",
+			"= \\Libs\\Common\\Helper::get_uri_vars",
+			"= \\Libs\\Common\\Helper::parseArgs",
+			"\\Libs\\Common\\Helper",
+			"= Helper",
+			"(Helper::int(",
+			"Libs\\Common\\SearchesList::xmltojson(",
+			"Libs\\Common\\SearchesList::xml2json",
+			"= Libs\\Common\\SearchesList::advertsGetList",
+			" Libs\\Common\\Helper::trimXmlVersion(",
+			" Libs\\Common\\Helper::explodePgArrayEl",
+			" = Libs\\Common\\Helper::pg_type_array(",
+			"Libs\\Common\\Helper::pg_record(",
+			"Libs\\Common\\Helper::dateFormatXML",
+			"= Libs\\Common\\Helper::adverts_by_gstype(",
+			"Libs\\Common\\Helper::explodePgArray(",
+			"= Libs\\Common\\Helper::getClientTypes()",
+			"Libs\\Common\\Helper::page_error(",
+			"(Libs\\Common\\Helper::get_errors(",
+			"Libs\\Common\\Helper::jsOut(",
+			"= Libs\\Common\\Helper::pg_date(",
+			"(Libs\\Common\\Helper::is_ajax(",
+			"= Libs\\Common\\Helper::float(",
+			"= Libs\\Common\\Helper::bool(",
+			"Libs\\Common\\Helper::str(",
+			"Libs\\Common\\Helper::location(",
+			" Libs\\Common\\Helper::int(",
+			" : Libs\\Common\\Helper::getUnregisteredUserProfile();",
+			"Libs\\Common\\Helper::get_uri_vars(HTTP",
+			"'http://mx.ru/ajax/get_current_user/'",
+			"https://mx.ru",
+			"хуй хуй хуй",
+			"permission='client:edit'",
+			"deal:company:edit",
+			"'client:edit'",
+			"api.agenton.mx",
+			"",
+			"api.agenton.mx",
+			"\n//$_SERVER['ENVIRONMENT'] = 'production_from_develop';",
+			"$this->total",
+			"03uhd5h8ej3n",
+			"",
+			"namespace Libs",
+			"sb.downloads_stack",
+			"\\Exception",
+			"",
+			"sb.downloads_stack",
+			" \\Libs\\Publisher\\Encoder\\PublishEncoderFactory::create",
+			"",
+			"{\n",
+			"{",
+			"",
+			"$_query = $this->sql->query(",
+			"$query = $this->sql->query(",
+			"$this->sql->query($sql);",
+			"        $this->sql->query($sql);",
+			"        $this->sql = $libs['pgsql'];",
+			"$this->libs = $libs;\n$this->sql->query\n",
+			"$this->libs = $libs;\n$this->sql = $libs['pgsql'];\n",
+			"\n",
+			"/>\n",
+			" ",
+			"$this->validate($data);",
+			">\n",
+			"new \\pg_query",
+			"Libs\\Common\\ToolsAuth",
+			"Auth",
+			"",
+			"'/Common/sphinxapi.php'",
+			"'/Сommon/sphinxapi.php'",
+			"\\Libs\\Cache\\CacheFactory::",
+			"",
+			"/Cache/functions.php",
+			"",
+			"new \\Libs\\Common\\SphinxClient;",
+			"",
+			" \\GearmanClient",
+			"use \\Libs\\Common\\FileUpload;",
+			"use \\Libs\\Common\\Page;",
+			"SearchStats",
+			"new \\Libs\\Api\\UsersData",
+			"",
+			"Libs\\Common\\CmaReport::",
+			"Libs\\Common\\GeoHelper::",
+			"",
+			"new \\Libs\\Common\\Page",
+			"",
+			"\\Libs\\Common\\Page::",
+			"use Libs\\Common\\Useragent;",
+			"\\Libs\\Common\\Validate::",
+			"!\\Libs\\Common\\Validate::",
+			"",
+			"new \\DOMXPath",
+			"\\Libs\\Common\\Validate::",
+			"",
+			" \\Libs\\Common\\Grabber::",
+			"",
+			"use \\Libs\\Feeder\\Proxy;",
+			"(DescriptionParser::",
+			"(\\DescriptionParser::",
+			" \\Libs\\Common\\Normalize::",
+			"Raven_Client",
+			"\\Pimple\\Container $libs",
+			"namespace Libs\\Model;",
+			"new Libs\\Geo\\Geo(",
+			"\\Libs\\Parser\\Helper\\AddressFinder",
+			"",
+			"new Libs\\Geo\\Detector"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///Users/mac/Desktop/agenton":
+	{
+		"height": 100.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 100.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 51.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 25.0
+	},
+	"output.sftp":
+	{
+		"height": 27.0
+	},
+	"output.xdebug":
+	{
+		"height": 184.0
+	},
+	"pinned_build_system": "",
+	"project": "scentbird.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"index",
+				"app/index.html"
+			],
+			[
+				"webpack.",
+				"internals/webpack/webpack.dev.babel.js"
+			],
+			[
+				"index.ht",
+				"app/index.html"
+			],
+			[
+				"glo",
+				"app/global-styles.js"
+			],
+			[
+				"in",
+				"insert.go"
+			],
+			[
+				"urls",
+				"urls.txt"
+			],
+			[
+				"modulescont",
+				"tools/inc/libs/Controller/ModulesController.php"
+			],
+			[
+				"toolsgstype.php",
+				"tools/inc/libs/Model/Entities/Gstype.php"
+			],
+			[
+				"apigstype.php",
+				"api/inc/libs/Model/Entities/Gstype.php"
+			],
+			[
+				"search.dc",
+				"libs/Model/Yaml/Libs.Model.Entities.Search.dcm.yml"
+			],
+			[
+				"dealrepository.php",
+				"libs/Model/Repositories/DealRepository.php"
+			],
+			[
+				"__cg__libsmodelentitiessearch.php",
+				"libs/Model/Proxies/__CG__LibsModelEntitiesSearch.php"
+			],
+			[
+				"entsearch.php",
+				"libs/Model/Entities/Search.php"
+			],
+			[
+				"file.p",
+				"libs/Model/Entities/File.php"
+			],
+			[
+				"libs.",
+				"libs/libs.php"
+			],
+			[
+				"file.php",
+				"libs/Model/Entities/File.php"
+			],
+			[
+				"libsgstype.php",
+				"libs/Model/Entities/Gstype.php"
+			],
+			[
+				"index.html",
+				"tools/twig/modules/index.html.twig"
+			],
+			[
+				"edit.html",
+				"tools/twig/modules/edit.html.twig"
+			],
+			[
+				"edit.htl",
+				"tools/twig/modules/edit.html.twig"
+			],
+			[
+				"gstype",
+				"api/inc/libs/Model/Entities/Gstype.php"
+			],
+			[
+				"gstype.dc",
+				"tools/inc/libs/Model/Yaml/Libs.Model.Entities.Gstype.dcm.yml"
+			],
+			[
+				"desktop.dc",
+				"tools/inc/libs/Model/Yaml/Libs.Model.Entities.Desktop.dcm.yml"
+			],
+			[
+				"gstype.dcm",
+				"api/inc/libs/Model/Yaml/Libs.Model.Entities.Gstype.dcm.yml"
+			],
+			[
+				"cart.cl",
+				"api/inc/api/cart.class.php"
+			],
+			[
+				"abstroc",
+				"tools/inc/libs/Controller/AbstractController.php"
+			],
+			[
+				"abstr",
+				"libs/Controller/AbstractController.php"
+			],
+			[
+				"search.php",
+				"a3/pages/search.php"
+			],
+			[
+				"gstype.",
+				"api/inc/libs/Model/Entities/Gstype.php"
+			],
+			[
+				"role.php",
+				"libs/Model/Entities/Role.php"
+			],
+			[
+				"requeindex.html",
+				"tools/twig/requests/index.html.twig"
+			],
+			[
+				"libs",
+				"libs/libs.php"
+			],
+			[
+				"toolsabstrac",
+				"tools/inc/libs/Controller/AbstractController.php"
+			],
+			[
+				"abst",
+				"libs/Controller/AbstractController.php"
+			],
+			[
+				"index.html.tw",
+				"tools/twig/modules/index.html.twig"
+			],
+			[
+				"modules",
+				"libs/Controller/ModulesController.php"
+			],
+			[
+				"desktop.php",
+				"libs/Model/Entities/Desktop.php"
+			],
+			[
+				"auth",
+				"libs/Common/Auth.php"
+			],
+			[
+				"desktopdc",
+				"libs/Model/Yaml/Libs.Model.Entities.Desktop.dcm.yml"
+			],
+			[
+				"ciange",
+				"libs/Exporter/Generators/CianGenerator.php"
+			],
+			[
+				"yandexge",
+				"libs/Exporter/Generators/YandexGenerator.php"
+			],
+			[
+				"model.p",
+				"libs/Model/Model.php"
+			],
+			[
+				"profile.",
+				"a3/pages/profile.php"
+			],
+			[
+				"aja",
+				"a3/pages/ajax.php"
+			],
+			[
+				"objects.",
+				"a3/pages/objects.php"
+			],
+			[
+				"yandexada",
+				"libs/Adapter/YandexAdapter.php"
+			],
+			[
+				"sandbox.",
+				"api/inc/api/sandbox.class.php"
+			],
+			[
+				"pgsqlpa",
+				"libs/Parser/Storage/PgsqlParserStorage.php"
+			],
+			[
+				"nbxml",
+				"tools/inc/libs/Parser/Storage/NbXmlParserStorage.php"
+			],
+			[
+				"loader",
+				"libs/Common/Loader.php"
+			],
+			[
+				"sandbox.cl",
+				"api/inc/api/sandbox.class.php"
+			],
+			[
+				"adsrcmo",
+				"libs/Model/AdsrcModel.php"
+			],
+			[
+				"newbuildingxmlpropertiesmodel",
+				"libs/Model/NewbuildingXmlPropertiesModel.php"
+			],
+			[
+				"newbui",
+				"cron/bin/import/newBuildingsXml.php"
+			],
+			[
+				"users.php",
+				"tools/pages/users.php"
+			],
+			[
+				"mailr",
+				"cron/bin/mailru.php"
+			],
+			[
+				"linkfe",
+				"libs/LinkFetcher/AdvertLogWriter.php"
+			],
+			[
+				"toph",
+				"a3/js/src/components/common/TopHeader.js"
+			],
+			[
+				"moduledcm",
+				"libs/Model/Yaml/Libs.Model.Entities.Module.dcm.yml"
+			],
+			[
+				"libs.php",
+				"api/inc/libs/libs.php"
+			],
+			[
+				"libs.p",
+				"api/inc/libs/libs.php"
+			],
+			[
+				"header.cl",
+				"api/inc/api/header.class.php"
+			],
+			[
+				"module",
+				"api/inc/libs/Model/Entities/Module.php"
+			],
+			[
+				"invoice.php",
+				"libs/Model/Entities/Invoice.php"
+			],
+			[
+				"auth.php",
+				"a3/libs/Common/Auth.php"
+			],
+			[
+				"ajax",
+				"a3/pages/ajax.php"
+			],
+			[
+				"aut",
+				"libs/Common/Auth.php"
+			],
+			[
+				"module.",
+				"api/inc/libs/Model/Entities/Module.php"
+			],
+			[
+				"cart.php",
+				"api/inc/libs/Model/Entities/Cart.php"
+			],
+			[
+				"auth.",
+				"libs/Common/Auth.php"
+			],
+			[
+				"profile.php",
+				"a3/pages/profile.php"
+			],
+			[
+				"desktop.dcm",
+				"libs/Model/Yaml/Libs.Model.Entities.Desktop.dcm.yml"
+			],
+			[
+				"user",
+				"libs/Model/Entities/User.php"
+			],
+			[
+				"module.dc",
+				"libs/Model/Yaml/Libs.Model.Entities.Module.dcm.yml"
+			],
+			[
+				"user.dc",
+				"api/inc/libs/Model/Yaml/Libs.Model.Entities.User.dcm.yml"
+			],
+			[
+				"moduel.",
+				"libs/Model/Entities/Module.php"
+			],
+			[
+				"shop",
+				"api/inc/api/shop.class.php"
+			],
+			[
+				"invo",
+				"libs/Model/Entities/Invoice.php"
+			],
+			[
+				"toolsuser.php",
+				"tools/inc/libs/Model/Entities/User.php"
+			],
+			[
+				"get.",
+				"tools/twig/modules/get.html.twig"
+			],
+			[
+				"toolsgst",
+				"tools/inc/libs/Model/Entities/Gstype.php"
+			],
+			[
+				"toolsgstype",
+				"tools/inc/libs/Model/Entities/Gstype.php"
+			],
+			[
+				"invoice.dc",
+				"tools/inc/libs/Model/Yaml/Libs.Model.Entities.Invoice.dcm.yml"
+			],
+			[
+				"invoice",
+				"libs/Model/Entities/Invoice.php"
+			],
+			[
+				"cartre",
+				"api/inc/libs/Model/Repositories/CartRepository.php"
+			],
+			[
+				"get.html",
+				"tools/twig/modules/get.html.twig"
+			],
+			[
+				"toolsmodule.dc",
+				"tools/inc/libs/Model/Yaml/Libs.Model.Entities.Module.dcm.yml"
+			],
+			[
+				"gsty",
+				"api/inc/libs/Model/Entities/Gstype.php"
+			],
+			[
+				"gstype.php",
+				"tools/inc/libs/Model/GSTypeModel.php"
+			],
+			[
+				"gstyp",
+				"api/inc/libs/Model/Entities/Gstype.php"
+			],
+			[
+				"abstract",
+				"tools/inc/libs/Controller/AbstractController.php"
+			],
+			[
+				"part.cl",
+				"api/inc/api/part.class.php"
+			],
+			[
+				"modules.cl",
+				"api/inc/api/modules.class.php"
+			],
+			[
+				"modulesco",
+				"tools/inc/libs/Controller/ModulesController.php"
+			],
+			[
+				"popupco",
+				"libs/Controller/PopupsController.php"
+			],
+			[
+				"abstra",
+				"libs/Controller/AbstractController.php"
+			],
+			[
+				"suggester.php",
+				"tools/pages/suggester.php"
+			],
+			[
+				"ratingsco",
+				"libs/Controller/RatingsController.php"
+			],
+			[
+				"usersuggest.html",
+				"tools/twig/usersuggest.html.twig"
+			],
+			[
+				"itemindex.js",
+				"f/src/modules/Modules/components/Item/index.js"
+			],
+			[
+				"part.c",
+				"api/inc/api/part.class.php"
+			],
+			[
+				"agentonap",
+				"a3/js/src/api/AgentonApi.js"
+			],
+			[
+				"global.yml",
+				"a3/libs/Config/global.yml"
+			],
+			[
+				"global.",
+				"a3/libs/Config/global.php"
+			],
+			[
+				"modulesiindex.js",
+				"f/src/modules/Modules/components/Item/index.js"
+			],
+			[
+				"eslint",
+				"f/.eslintrc"
+			],
+			[
+				"user.p",
+				"libs/Model/Entities/User.php"
+			],
+			[
+				"gstype.ym",
+				"api/inc/libs/Model/Yaml/Libs.Model.Entities.Gstype.dcm.yml"
+			],
+			[
+				"gstypeta",
+				"libs/Model/Entities/GstypeTag.php"
+			],
+			[
+				"modules.",
+				"api/inc/api/modules.class.php"
+			],
+			[
+				"modulesmodulesitem",
+				"f/src/modules/Modules/components/Item/index.js"
+			],
+			[
+				"cart.c",
+				"api/inc/api/cart.class.php"
+			],
+			[
+				"selectindex",
+				"f/src/common_components/Form/Select/index.js"
+			],
+			[
+				"query",
+				"libs/db/Query.php"
+			],
+			[
+				"shop.cl",
+				"api/inc/api/shop.class.php"
+			],
+			[
+				"gst",
+				"api/inc/libs/Model/Entities/Gstype.php"
+			],
+			[
+				"modules.c",
+				"api/inc/api/modules.class.php"
+			],
+			[
+				"itemindex",
+				"f/src/modules/Modules/components/Item/index.js"
+			],
+			[
+				"modules.js",
+				"f/src/common_redux_components/Cart/assemblers/Modules.js"
+			],
+			[
+				"cart.js",
+				"f/src/common_redux_components/Cart/component/Cart.js"
+			],
+			[
+				"cart",
+				"api/inc/libs/Model/Repositories/CartRepository.php"
+			],
+			[
+				"reactformselect",
+				"f/src/common_components/ReactForm/Select/index.js"
+			],
+			[
+				"modulesitem.js",
+				"f/src/modules/Objects/components/SimilarObjects/Item.js"
+			],
+			[
+				"item.js",
+				"f/src/modules/Objects/components/SimilarObjects/Item.js"
+			],
+			[
+				"modulespa",
+				"f/src/modules/Modules/ModulesPage.js"
+			],
+			[
+				"module.php",
+				"api/inc/libs/Model/Entities/Module.php"
+			],
+			[
+				"mdule",
+				"api/inc/api/modules.class.php"
+			],
+			[
+				"gstype.yc",
+				"api/inc/libs/Model/Yaml/Libs.Model.Entities.Gstype.dcm.yml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Sites/yahon/yahon.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "/",
+		"selected_items":
+		[
+			[
+				"/",
+				"Libs\\Api"
+			],
+			[
+				"",
+				"AMALLSParser"
+			],
+			[
+				"go t",
+				"goTo"
+			]
+		],
+		"width": 899.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 384.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
